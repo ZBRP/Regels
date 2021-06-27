@@ -13,51 +13,50 @@
 
 
 # Criminele Regels
-◦ Scammen ➥ Het is niet toegestaan om te scammen met voertuigen of mensen die bezig zijn met een (non)whitelistedjob. Mits je wel scamt zal hier een limiet op gelden van €30.000.
-◦ Twitter ➥ Twitter is geen illegaal platform waar jij spullen mag verkopen zoals: wapens, drugs locaties en andere criminele informatie. Deze regels gelden het zelfde voor het kopen van criminele informatie op het platform.
-◦ Outfit  ➥ je mag geen holster of een masker op hebben behalve tijdens criminele activiteiten (niet als je met je normale dagelijke bezigheden bezig bent) 
+1. Scammen: Het is niet toegestaan om te scammen met voertuigen of mensen die bezig zijn met een (non)whitelistedjob. Mits je wel scamt zal hier een limiet op gelden van €30.000.
+2. Twitter: Twitter is geen illegaal platform waar jij spullen mag verkopen zoals: wapens, drugs locaties en andere criminele informatie. Deze regels gelden het zelfde voor het kopen van criminele informatie op het platform.
+3. Outfit: je mag geen holster of een masker op hebben behalve tijdens criminele activiteiten (niet als je met je normale dagelijke bezigheden bezig bent) 
 
-Als een persoon is opgepakt met een wapen mag hij tijdens het vervoer naar HB nog gered worden met goede roleplay! als de verdachte in de politie auto bij HB is mag er niks meer ondernomen worden!
-
-Na 3 vorderingen van politie als je dan nog niet luistert krijg je snelrecht en mag je 30min de cel in! 
-
+4. Als een persoon is opgepakt met een wapen mag hij tijdens het vervoer naar HB nog gered worden met goede roleplay! als de verdachte in de politie auto bij HB is mag er niks meer ondernomen worden!
+5. Na 3 vorderingen van politie als je dan nog niet luistert krijg je snelrecht en mag je 30min de cel in! 
 
 
-◦ GREENZONES
 
-Ziekenhuis
+6. GREENZONES
+
+* Ziekenhuis
 
 <img src="https://i.imgur.com/mmF8Ehz.png?width=403&height=230" />
 
 
-Blokkenpark
+* Blokkenpark
 
 <img src="https://i.imgur.com/lcaWIgI.png?width=375&height=210" />
 
 
-Politiebureau
+* Politiebureau
 
 <img src="https://i.imgur.com/mmF8Ehz.png?width=403&height=230" />
 
 
 
-◦ Ontvoeren
-➥ Het ontvoeren van burgers is toegestaan zolang er een goeie RP, Of gedachte achter zit die kan worden uitgelegd door middel van een clip.
-➥ Het ontvoeren van burgers mag niet als degene op dat moment op een greenzone staat! Is deze hierheen gevlucht en dit staat op je clip mag je dit wel doen!
-➥ Voor het ontvoeren van burgers moet er minimaal 2 politie online zijn.
+7. Ontvoeren
+* Het ontvoeren van burgers is toegestaan zolang er een goeie RP, Of gedachte achter zit die kan worden uitgelegd door middel van een clip.
+* Het ontvoeren van burgers mag niet als degene op dat moment op een greenzone staat! Is deze hierheen gevlucht en dit staat op je clip mag je dit wel doen!
+* Voor het ontvoeren van burgers moet er minimaal 2 politie online zijn.
 
-◦ Overvallen van burgers
-➥ Het overvallen van iemand die een NON whitelisted job uitvoert is streng verboden (Kan je zien aan de Outfit!)
-➥ Het overvallen van burgers in greenzone plekken is niet toegestaan! ziekenhuis,PolitieBureau en BPG).
-➥ Het overvallen van burgers die minder dan 1 week in de stad zijn is streng verboden!
-➥ Het overvallen van burgers die in een greenzone staan mogen niet worden overvallen dit is streng verboden!
-➥ Na het overvallen van een burger mag je hem/haar niet vermoorden.
-➥ Het overvallen van burgers is maximaal voor een bedrag van €3,000. Je mag iemand ALLEEN beroven als die aan criminele activiteiten doet!
-➥ Het overvallen van dezelfde burger is niet toegestaan.
-➥ Het overvallen van burgers mag altijd! Mits je je aan de boven geschreven regels houdt!
+8. Overvallen van burgers
+* Het overvallen van iemand die een NON whitelisted job uitvoert is streng verboden (Kan je zien aan de Outfit!)
+* Het overvallen van burgers in greenzone plekken is niet toegestaan! ziekenhuis,PolitieBureau en BPG).
+* Het overvallen van burgers die minder dan 1 week in de stad zijn is streng verboden!
+* Het overvallen van burgers die in een greenzone staan mogen niet worden overvallen dit is streng verboden!
+* Na het overvallen van een burger mag je hem/haar niet vermoorden.
+* Het overvallen van burgers is maximaal voor een bedrag van €3,000. Je mag iemand ALLEEN beroven als die aan criminele activiteiten doet!
+* Het overvallen van dezelfde burger is niet toegestaan.
+* Het overvallen van burgers mag altijd! Mits je je aan de boven geschreven regels houdt!
 
 ◦ Let op!
-➥ Bij het overvallen van burger zullen de spullen die zijn ingenomen door de overvaller wordt teruggegeven aan de die is overvallen! Worden er meerdere feiten geconstateerd zullen deze worden opgeteld en leiden tot een hogere straf.
+➥ Bij het overvallen van burger zullen de spullen die zijn ingenomen door de overvaller wordt teruggegeven aan de die is overvallen! Worden er meerdere feiten geconstateerd * zullen deze worden opgeteld en leiden tot een hogere straf.
 ➥ Er mogen leuke overval ideeen buiten een bank, juwelier of winkel om uitgevoerd worden met toestemming van de eerste hoofdcommisaris. 
 Tijdens het fictieve evenement worden er geen wapens of straffen of boetes uitgedeeld. 
 ➥ Je mag geen auto stelen zonder roleplay!
