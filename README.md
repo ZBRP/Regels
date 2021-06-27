@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://i.imgur.com/4Vx5Rqt.png?width=2132&height=533" width="150">
+ <img src="https://i.imgur.com/4Vx5Rqt.png?width=2132&height=533" width="220">
 </p>
 
 # Zwanenburg-Regels
