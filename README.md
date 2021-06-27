@@ -2,9 +2,15 @@
 
 # Zwanenburg-Regels
 
-- [Server Regels](https://github.com/Amped16/as_carthief)
-- [Politie Regels](https://github.com/Amped16/as_carthief)
-- [Criminele Regels](https://github.com/Amped16/as_carthief)
+- [Server Regels](https://github.com/ZBRP/Regels#server-regels)
+- [Politie Regels](https://github.com/ZBRP/Regels#politie-regels)
+- [Criminele Regels](https://github.com/ZBRP/Regels#criminele-regels)
+
+# Server Regels
+
+
+# Politie Regels
+
 
 # Criminele Regels
 ◦ Scammen ➥ Het is niet toegestaan om te scammen met voertuigen of mensen die bezig zijn met een (non)whitelistedjob. Mits je wel scamt zal hier een limiet op gelden van €30.000.
