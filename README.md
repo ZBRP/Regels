@@ -26,7 +26,7 @@ Na 3 vorderingen van politie als je dan nog niet luistert krijg je snelrecht en 
 ◦ GREENZONES
 
 Ziekenhuis
-<img src="https://imgur.com/aGrauVC" />
+<img src="https://i.imgur.com/mmF8Ehz.png?width=403&height=230" />
 
 Blokkenpark
 <img src="https://imgur.com/lcaWIgI" />
