@@ -1,4 +1,4 @@
-<img src="https://media.discordapp.net/attachments/836180708443029564/836181118885298216/sUwvblL.png?width=1080&height=169" />
+<img src="https://i.imgur.com/m26eDCE.jpg?width=2132&height=533" />
 
 # Zwanenburg-Regels
 
