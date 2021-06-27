@@ -175,47 +175,47 @@ Een grote bank groot kaliber vuurwapen ak47, Micro smg en uzi
 
 
 # Discord Regels
-1. Algemene regels
- 1.01. De Terms of Service en Community Guide Lines van Discord zullen strikt gehandhaafd worden.
- 1.02. Uitzonderingen van de regels kunnen bepaald worden door Staff.
+1. Algemene regels 
+	- De Terms of Service en Community Guide Lines van Discord zullen strikt gehandhaafd worden.
+	- Uitzonderingen van de regels kunnen bepaald worden door Staff.
 2. Gebruik van kanalen
- 2.01. Tekst- en spraakkanalen mogen enkel voor hun genoemde doel gebruikt worden.
- 2.02. Nederlands is de enige taal die gesproken mag worden buiten de taal-specifieke tekstkanalen.
- 2.03. Bot commands mogen enkel in het # :robot:│bot-commands kanaal gebruikt worden.
- 2.04. Het spammen en 'overstromen' van een kanaal, evenals het zogenoemde 'kanaalhoppen' is niet toegestaan. Dit geldt ook voor het gebruik van bots. Als je het berichtenlimiet hebt bereikt, dan wordt dat beschouwd als spammen.
- 2.05. Het herhalen van dezelfde bot command die iemand anders net heeft uitgevoerd.
- 2.06. Het onnodig, overmatig en ghost taggen van gebruikers en staff, evenals het taggen zonder er een bericht bij te voegen.
- 2.07. Discussies die leiden tot onrust, waaronder het voeren van discussies over politieke zaken.
- 2.08. Het delen van persoonlijk identificeerbare informatie (bijvoorbeeld naam, adres, e-mail, telefoonnummer, etc.) van jezelf of andere gebruikers.
+	- Tekst- en spraakkanalen mogen enkel voor hun genoemde doel gebruikt worden.
+	- Nederlands is de enige taal die gesproken mag worden buiten de taal-specifieke tekstkanalen.
+	- Bot commands mogen enkel in het # :robot:│bot-commands kanaal gebruikt worden.
+	- Het spammen en 'overstromen' van een kanaal, evenals het zogenoemde 'kanaalhoppen' is niet toegestaan. Dit geldt ook voor het gebruik van bots. Als je het berichtenlimiet hebt bereikt, dan wordt dat beschouwd als spammen.
+	- Het herhalen van dezelfde bot command die iemand anders net heeft uitgevoerd.
+	- Het onnodig, overmatig en ghost taggen van gebruikers en staff, evenals het taggen zonder er een bericht bij te voegen.
+	- Discussies die leiden tot onrust, waaronder het voeren van discussies over politieke zaken.
+	- Het delen van persoonlijk identificeerbare informatie (bijvoorbeeld naam, adres, e-mail, telefoonnummer, etc.) van jezelf of andere gebruikers.
 3. Microfoon en geluid
- 3.01. Muziek mag enkel in het muziek spraakkanaal afgespeeld worden.
- 3.02. Het afspelen van muziek buiten het muziek spraakkanaal, het gebruik van stemvervormers en soundboards.
- 3.03. Het afspelen of toevoegen van muziek dat vulgair taalgebruik bevat of abnormaal lang duurt (>10 minuten).
+	- Muziek mag enkel in het muziek spraakkanaal afgespeeld worden.
+	- Het afspelen van muziek buiten het muziek spraakkanaal, het gebruik van stemvervormers en soundboards.
+	- Het afspelen of toevoegen van muziek dat vulgair taalgebruik bevat of abnormaal lang duurt (>10 minuten).
 4. Adverteren
- 4.01. Adverteren is niet toegestaan, met uitzondering van:
-  - Streams in het #:clapper:│content kanaal (één keer per stream).
-  - Video’s in het # :clapper:│content kanaal.
- 4.02. Reclame maken voor andere Discord guilds. Dit omvat het direct reclame maken in kanalen of via uitnodigingen, verkleinde URL's of het toevoegen van dergelijke zaken op media.
- 4.03. Iedere vorm van dienstverlening (gratis of betaald), onder meer het adverteren via het gebruik van je gebruikers- of bijnaam of media in kanalen die daar niet voor bedoeld zijn.
- 4.04. Ongevraagd uitnodigingen en/of advertenties naar anderen via directe berichten versturen.
+	- Adverteren is niet toegestaan, met uitzondering van:
+		- Streams in het #:clapper:│content kanaal (één keer per stream).
+		- Video’s in het # :clapper:│content kanaal.
+	- Reclame maken voor andere Discord guilds. Dit omvat het direct reclame maken in kanalen of via uitnodigingen, verkleinde URL's of het toevoegen van dergelijke zaken op media.
+	- Iedere vorm van dienstverlening (gratis of betaald), onder meer het adverteren via het gebruik van je gebruikers- of bijnaam of media in kanalen die daar niet voor bedoeld zijn.
+	- Ongevraagd uitnodigingen en/of advertenties naar anderen via directe berichten versturen.
 5. Gebruikersnamen en bijnamen
- 5.01. Gebruikersnamen mogen enkel alfanumerieke karakters bevatten. Emojis mogen gebruikt worden in je naam, mits deze gecombineerd worden met enkele alfanumerieke karakers.
- 5.02. Avatars moeten geschikt zijn voor alle leeftijden en voor op het werk. Ze mogen dus niet ongepast zijn of sexuele of bloederige inhoud bevatten. Hoewel we niet iedere uitzondering kunnen dekken in deze regel, zal het toegepast worden in de context van hoe de avatar gebruikt wordt.
+	- Gebruikersnamen mogen enkel alfanumerieke karakters bevatten. Emojis mogen gebruikt worden in je naam, mits deze gecombineerd worden met enkele alfanumerieke karakers.
+	- Avatars moeten geschikt zijn voor alle leeftijden en voor op het werk. Ze mogen dus niet ongepast zijn of sexuele of bloederige inhoud bevatten. Hoewel we niet iedere uitzondering kunnen dekken in deze regel, zal het toegepast worden in de context van hoe de avatar gebruikt wordt.
 6. Ongepaste inhoud
- 6.01. Het posten van ongepaste inhoud. Dit omvat (maar beperkt zich niet tot) het delen of posten van epilepsie uitlokkende, expliciete, ongepaste of pornografische inhoud en het distribueren van media van dit karakter.
- 6.02. Het delen van links of bestanden die virussen, malware, illegale software, torrents, etc. bevatten die als illegaal beschouwd worden volgens internationale wetgeving is niet toegestaan.
- 6.03. Het gebruik van IP trackers of andere kwaadaardige verzameltools is ten strengste verboden.
- 6.04. Het bespreken of voorstellen van bovenstaande zaken is niet toegestaan.
+	- Het posten van ongepaste inhoud. Dit omvat (maar beperkt zich niet tot) het delen of posten van epilepsie uitlokkende, expliciete, ongepaste of pornografische inhoud en het distribueren van media van dit karakter.
+	- Het delen van links of bestanden die virussen, malware, illegale software, torrents, etc. bevatten die als illegaal beschouwd worden volgens internationale wetgeving is niet toegestaan.
+	- Het gebruik van IP trackers of andere kwaadaardige verzameltools is ten strengste verboden.
+	- Het bespreken of voorstellen van bovenstaande zaken is niet toegestaan.
 7. Sollicitatie's, bans en in-game gebeurtenissen
- 7.01. Het bespreken van straffen, reports, tickets, appeals, sollicitaties en klachten over stafleden is niet toegestaan.
- 7.02. Game Moderators verzoeken om bepaalde gebieden in het spel te modereren is niet toegestaan. Gebruik daarvoor het in-game of het web report systeem.
+	- Het bespreken van straffen, reports, tickets, appeals, sollicitaties en klachten over stafleden is niet toegestaan.
+	- Game Moderators verzoeken om bepaalde gebieden in het spel te modereren is niet toegestaan. Gebruik daarvoor het in-game of het web report systeem.
 8. Discord strafsysteem
- 8.01. Straffen op Discord werken als volgt:
-  - mondelinge waarschuwing;
-  - 3 waarschuwingen die opgeslagen worden in de logs;
-  - 7 dagen geblokkeerd
-  - 7 dagen ban;
-  - permanente ban.
- 8.02. Straffen, ook waarschuwingen, vervallen nooit en worden opgeslagen in de logs. Indien je van account wisselt, dan zijn de straffen die je op het vorige account hebt ontvangen nog steeds van toepassing.
- 8.03. Indien het nodig is, dan kan er afgeweken worden van de standaardvolgorde van het strafsysteem in 9.01.
- 8.04. Je kunt in beroep gaan tegen een straf via het feedback systeem. Contacteer daarvoor het "Management".
+	- Straffen op Discord werken als volgt:
+		- mondelinge waarschuwing;
+		- 3 waarschuwingen die opgeslagen worden in de logs;
+		- 7 dagen geblokkeerd
+		- 7 dagen ban;
+		- permanente ban.
+	- Straffen, ook waarschuwingen, vervallen nooit en worden opgeslagen in de logs. Indien je van account wisselt, dan zijn de straffen die je op het vorige account hebt ontvangen nog steeds van toepassing.
+	- Indien het nodig is, dan kan er afgeweken worden van de standaardvolgorde van het strafsysteem in 9.01.
+	- Je kunt in beroep gaan tegen een straf via het feedback systeem. Contacteer daarvoor het "Management".
