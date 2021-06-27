@@ -1,4 +1,6 @@
-<img src="https://i.imgur.com/m26eDCE.jpg?width=2132&height=533" />
+<p align="center">
+ <img src="https://i.imgur.com/4Vx5Rqt.png?width=2132&height=533" width="150">
+</p>
 
 # Zwanenburg-Regels
 
