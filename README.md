@@ -7,7 +7,7 @@
  
 [<img align="left" alt="zwanenburgroleplay.nl" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="discord.gg/zbrp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
-[<img align="left" alt="zwanenburgrp | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="ZwanenBurgRP | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
  
 <br />
 
@@ -229,3 +229,8 @@ Een grote bank groot kaliber vuurwapen ak47, Micro smg en uzi
 	- Straffen, ook waarschuwingen, vervallen nooit en worden opgeslagen in de logs. Indien je van account wisselt, dan zijn de straffen die je op het vorige account hebt ontvangen nog steeds van toepassing.
 	- Indien het nodig is, dan kan er afgeweken worden van de standaardvolgorde van het strafsysteem in 9.01.
 	- Je kunt in beroep gaan tegen een straf via het feedback systeem. Contacteer daarvoor het "Management".
+
+
+[website]: https://zwanenburgroleplay.nl
+[discord]: https://discord.com/invite/zbrp
+[instagram]: https://instagram.com/zwanenburgrp
