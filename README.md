@@ -19,10 +19,10 @@
 
 # ZwanenBurgRP-Regels
 
-- [Server Regels](https://github.com/ZBRP/Regels#server-regels)
-- [Politie Regels](https://github.com/ZBRP/Regels#politie-regels)
-- [Criminele Regels](https://github.com/ZBRP/Regels#criminele-regels)
-- [Discord Regels](https://github.com/ZBRP/Regels#discord-regels)
+- [🌍 Server Regels](https://github.com/ZBRP/Regels#server-regels)
+- [👮 Politie Regels](https://github.com/ZBRP/Regels#politie-regels)
+- [🔫 Criminele Regels](https://github.com/ZBRP/Regels#criminele-regels)
+- [📱 Discord Regels](https://github.com/ZBRP/Regels#discord-regels)
 
 ### Server Regels
 
