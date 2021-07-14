@@ -2,6 +2,15 @@
  <img src="https://i.imgur.com/4Vx5Rqt.png?width=2132&height=533" width="220">
 </p>
 
+### Connect with me:
+ 
+[<img align="left" alt="zwanenburgroleplay.nl" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][www.zwanenburgroleplay.nl]
+[<img align="left" alt="ZwanenBurgRP | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][https://discord.com/invite/zbrp]
+[<img align="left" alt="zwanenburgrp | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][https://instagram.com/zwanenburgrp?utm_medium=copy_link]
+ 
+<br />
+
+
 # Zwanenburg-Regels
 
 - [Server Regels](https://github.com/ZBRP/Regels#server-regels)
