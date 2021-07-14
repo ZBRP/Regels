@@ -4,9 +4,9 @@
 
 ### Contact:
  
-[<img align="left" alt="zwanenburgroleplay.nl" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][www.zwanenburgroleplay.nl]
-[<img align="left" alt="ZwanenBurgRP | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][https://discord.com/invite/zbrp]
-[<img align="left" alt="zwanenburgrp | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][https://instagram.com/zwanenburgrp?utm_medium=copy_link]
+[<img align="left" alt="zwanenburgroleplay.nl" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="discord.gg/zbrp | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+[<img align="left" alt="zwanenburgrp | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
  
 <br />
 
