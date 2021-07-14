@@ -19,13 +19,13 @@
 - [Criminele Regels](https://github.com/ZBRP/Regels#criminele-regels)
 - [Discord Regels](https://github.com/ZBRP/Regels#discord-regels)
 
-# Server Regels
+### Server Regels
 
 
-# Politie Regels
+### Politie Regels
 
 
-# Criminele Regels
+### Criminele Regels
 1. Scammen: Het is niet toegestaan om te scammen met voertuigen of mensen die bezig zijn met een (non)whitelistedjob. Mits je wel scamt zal hier een limiet op gelden van €30.000.
 2. Twitter: Twitter is geen illegaal platform waar jij spullen mag verkopen zoals: wapens, drugs locaties en andere criminele informatie. Deze regels gelden het zelfde voor het kopen van criminele informatie op het platform.
 3. Outfit: je mag geen holster of een masker op hebben behalve tijdens criminele activiteiten (niet als je met je normale dagelijke bezigheden bezig bent) 
@@ -184,7 +184,7 @@ Een grote bank groot kaliber vuurwapen ak47, Micro smg en uzi
 
 
 
-# Discord Regels
+### Discord Regels
 1. Algemene regels 
 	- De Terms of Service en Community Guide Lines van Discord zullen strikt gehandhaafd worden.
 	- Uitzonderingen van de regels kunnen bepaald worden door Staff.
