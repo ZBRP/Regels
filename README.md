@@ -17,7 +17,7 @@
 <br />
 
 
-# Zwanenburg-Regels
+# ZwanenBurgRP-Regels
 
 - [Server Regels](https://github.com/ZBRP/Regels#server-regels)
 - [Politie Regels](https://github.com/ZBRP/Regels#politie-regels)
