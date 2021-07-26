@@ -43,7 +43,7 @@
 
 * Blokkenpark
 
-<img src="https://i.imgur.com/aGrauVC.png?width=375&height=210" />
+<img src="https://i.imgur.com/1HYJxq2.png" />
 
 
 * Politiebureau
