@@ -19,10 +19,10 @@
 - [📱 Discord Regels](https://github.com/ZBRP/Regels#discord-regels)
 
 ### Server Regels
-
+1. Het gebruik maken van alt account(s), startersgeld vragen/ontvangen is verboden! Wanneer wij dit ontdekken word dit dan ook per direct van jou ontnomen.
 
 ### Politie Regels
-
+1. Deze komen zsm erbij te staan!
 
 ### Criminele Regels
 1. Scammen: Het is niet toegestaan om te scammen met voertuigen of mensen die bezig zijn met een (non)whitelistedjob. Mits je wel scamt zal hier een limiet op gelden van €30.000.
