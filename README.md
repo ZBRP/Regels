@@ -69,8 +69,11 @@
 
 ◦ Let op!
 ➥ Bij het overvallen van burger zullen de spullen die zijn ingenomen door de overvaller wordt teruggegeven aan de die is overvallen! Worden er meerdere feiten geconstateerd * zullen deze worden opgeteld en leiden tot een hogere straf.
+
 ➥ Er mogen leuke overval ideeen buiten een bank, juwelier of winkel om uitgevoerd worden met toestemming van de eerste hoofdcommisaris. 
+
 Tijdens het fictieve evenement worden er geen wapens of straffen of boetes uitgedeeld. 
+
 ➥ Je mag geen auto stelen zonder roleplay!
 
 
