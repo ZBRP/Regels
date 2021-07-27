@@ -20,9 +20,7 @@
 
 ### Server Regels
 •    Staff team:
- Hulp nodig? -> Vraag eerst om een Moderator, reageert deze niet of niet aanwezig? -> dan pas vraag je om een admin.
-
-Graag je reden en ID doorgeven, als je hulp nodig helpt.
+ Hulp nodig? -> Vraag eerst om een Moderator, reageert deze niet of niet aanwezig? -> /assist en report dien je daarvoor te gebruiken
 
 De staff hebben alle rechten m.b.t. kicken/bannen/spectaten.
 
