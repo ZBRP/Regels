@@ -19,7 +19,68 @@
 - [📱 Discord Regels](https://github.com/ZBRP/Regels#discord-regels)
 
 ### Server Regels
-1. Het gebruik maken van alt account(s), startersgeld vragen/ontvangen is verboden! Wanneer wij dit ontdekken word dit dan ook per direct van jou ontnomen.
+Het gebruik maken van alt account(s), startersgeld vragen/ontvangen is verboden! Wanneer wij dit ontdekken word dit dan ook per direct van jou ontnomen.
+
+Creëren van een karakter:
+
+Gebruik hiervoor /register (mocht je max limiet hebben egrbuik dan eerst /delchar
+ 
+Neem de tijd met het creëren van je karakter. Kies een leuk kapsel uit en leuke mooie kleren. (Let op! Geen overheidsdienstenkleding of attributen betrekking tot wapens zoals een holster).
+
+Koop een telefoon in een van de vele winkels in de stad.
+
+OOC Chat is puur voor VDM/RDM berichten, hackers, iemand die vast zit onder de map enzovoorts.
+
+Termen:
+
+FailRP is wanneer je de regels overtreedt tijdens de RolePlay of Out Of Character gaat
+
+OOC is Out Of Character, oftewel je zit niet meer in je rol en zodoende de RolePlay afbreekt. Dis is niet toegestaan.
+
+RDM is random deathmatch: het zomaar vermoorden of slaan van mensen zonder roleplay dit is FailRP.
+
+VDM is Vehicle deathmatch: het zomaar vermoorden of aanrijden van mensen met voertuigen zonder roleplay dit is FailRP.
+
+Metagaming is informatie buiten de game in het spel gebruiken en dit is FailRP en is ten strengste verboden.
+
+Power Gaming: RolePlay opdringen waarop de andere persoon geen kans heeft om te reageren. (vb /me slaat persoon knockout en snijdt zijn keel door). Geen mechanics gebruiken die niet in de game zitten. (bijv /me gebruikt kettingzaag). Geef de andere persoon altijd kans om te reageren op jou RolePlay.
+
+Combat Loggen is FailRP en is ten strengste verboden.
+
+Bedrijfsvoertuigen/Hulpdienstvoertuigen stelen is verboden.
+
+Hacking/Bug Exploits/Abuse:
+
+Clientside scripts zijn niet toegestaan en hier staat Permaban op.
+
+Glitch/bug misbruik is niet toegestaan en hier staat Permaban op.
+
+Ben je getuige hiervan of verdenk je hier iemand van, laat dit de Staff weten. Heb je bewijs, stuur dit graag mee. Je bent ten alle tijden verplicht om Bugs of Glitches te melden. Mocht je dit bijvoorbeeld per ongeluk overkomen zijn, meld dit per direct. Doe je dit niet, dan gaan we ervan uit dat je dit expres doet en krijg je Permaban.
+
+Gebruik maken van MOD-menu’s of Cheatengine is automatisch een Permaban. Verder zullen we je aanmelden op een Black-List. Hier werken meerdere Nederlandse samen om hackers tegen te gaan. Dit houdt in dat je dan ook een Permaban krijgt op meerdere Nederlandse servers.
+
+RolePlay:
+We praten Nederlands op ZwanenBurg en communiceren ook zo met elkaar.
+
+Je leven is heilig, dus doe geen dingen die dit overduidelijk in gevaar zal brengen (wegrennen als er een wapen op je gericht is).
+
+Geef andere een kans om te reageren in je RolePlay. RolePlay kun je niet alleen doen.
+
+Met ziektes schelden doen we niet hier! Staat Permaban op!
+
+Hou je aan de Nederlandse verkeersregels.
+
+Hou je aan de Nederlandse Wetgeving.
+
+Bedrijfsvoertuigen mogen niet gebruikt worden voor iets anders dan voor de baan dat ze bedoeld zijn.
+
+Je baan voer je ook uit met je bedrijfsvoertuig en niet met je privé voertuig.
+
+Je masker heb je alleen op met grote criminele activiteiten zoals Bank/Winkel overvallen, of moorden. Niet als je gaat plukken en dergelijke.
+
+Zeuren of Politie/Hulpverleners of ANWB in dienst gaan, is niet wenselijk
+
+Hou je aan de juiste aantallen items in je inventory (10/10 water ipv 15/10).
 
 ### Politie Regels
 1. Deze komen zsm erbij te staan!
