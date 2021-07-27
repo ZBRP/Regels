@@ -55,10 +55,9 @@
 7. Ontvoeren
 * Het ontvoeren van burgers is toegestaan zolang er een goeie RP, Of gedachte achter zit die kan worden uitgelegd door middel van een clip.
 * Het ontvoeren van burgers mag niet als degene op dat moment op een greenzone staat! Is deze hierheen gevlucht en dit staat op je clip mag je dit wel doen!
-* Voor het ontvoeren van burgers moet er minimaal 2 politie online zijn.
 
 8. Overvallen van burgers
-* Het overvallen van iemand die een NON whitelisted job uitvoert is streng verboden (Kan je zien aan de Outfit!)
+* Het overvallen van iemand die een whitelisted/nonwhitelisted job uitvoert is streng verboden (Kan je zien aan de Outfit!)
 * Het overvallen van burgers in greenzone plekken is niet toegestaan! ziekenhuis,PolitieBureau en BPG).
 * Het overvallen van burgers die minder dan 1 week in de stad zijn is streng verboden!
 * Het overvallen van burgers die in een greenzone staan mogen niet worden overvallen dit is streng verboden!
