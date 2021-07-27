@@ -19,6 +19,21 @@
 - [📱 Discord Regels](https://github.com/ZBRP/Regels#discord-regels)
 
 ### Server Regels
+•    Staff team:
+ Hulp nodig? -> Vraag eerst om een Moderator, reageert deze niet of niet aanwezig? -> dan pas vraag je om een admin.
+
+Graag je reden en ID doorgeven, als je hulp nodig helpt.
+
+De staff hebben alle rechten m.b.t. kicken/bannen/spectaten.
+
+Een ban kan altijd later komen dan wanneer het incident plaats heeft gevonden.
+
+Unbanformulier (Voor Discord/Server) kun je elders vinden op onze website. www.zwanenburgroleplay.nl
+
+Ga niet onnodig in discussie met een Moderator of Admin.
+
+
+
 Het gebruik maken van alt account(s), startersgeld vragen/ontvangen is verboden! Wanneer wij dit ontdekken word dit dan ook per direct van jou ontnomen.
 
 Creëren van een karakter:
