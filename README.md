@@ -16,7 +16,7 @@
 - [🌍 Server Regels](https://github.com/ZBRP/Regels#server-regels)
 - [❌ Hacking / Bug Exploits / Abuse](https://github.com/ZBRP/Regels#hacking-bug-exploit-abuse)
 - [🏃‍♂️Roleplay](https://github.com/ZBRP/Regels#roleplay)
-- [❓ Speler reports & staff](https://github.com/ZBRP/Regel#speler-reports-&-staff)
+- [❓ Speler reports & staff](https://github.com/ZBRP/Regels#speler-reports-&-staff)
 - [📱 Discord Regels](https://github.com/ZBRP/Regels#discord-regels)
 - [📚 Algemene strafopzet](https://github.com/ZBRP/Regels#algemene-strafopzet)
 - [🟩 Greenzone](https://github.com/ZBRP/Regels#greenzone)
