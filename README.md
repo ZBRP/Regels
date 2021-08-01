@@ -31,7 +31,7 @@ Bij het creëren van uw personage dient u rustig uw tijd te nemen. Zoek een leuk
 
 Pas wel op bij het creëren van een outfit dat u geen overheidskleding aantrekt of attributen met betrekking tot politiekleding en dergelijke.
 
-### Hacking / Bug Exploits / Abuse
+### Hacking Bug Exploits  Abuse
 
 Clientside scripts zijn ten strengste verboden.
 
