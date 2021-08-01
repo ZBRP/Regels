@@ -65,17 +65,17 @@ Een bedrijfsvoertuig mag niet worden vervangen met gebruik van een privéwagen.
 Het stelen van andermans voertuig ZONDER RP is verboden.
 AFK geld farmen is verboden.
 Het verklappen van locaties buiten in-game activiteiten is verboden.
-Speler reports & staff
+
+Speler reports & staff.
 
 Wanneer u een vraag of een probleem ervaart in-game dan kunt u het staffteam contacteren door middel van de chatbalk te openen en vervolgens /assist (plaats hierin uw vraag of probleem) of /report (plaats hierin uw vraag of probleem) te typen. Het is van belang om hier kort en krachtig uw probleem te beschrijven zodat de juiste persoon ter plaatse kan komen om u te helpen.
 Een scenario MOET worden afgemaakt voordat het wordt beoordeeld door een stafflid. Echter wanneer een staff constateert dat het scenario uit de hand loopt dan mag deze nietig worden verklaard.
 Toon respect voor de staff van de stad aangezien dit de mensen zijn die voor u klaar staan en er zijn om u te helpen! 
 Wanneer u toch een vraag heeft die in-game niet opgelost kan worden, dan verzoeken wij u vriendelijk naar de Discord wachtkamer te komen waar we een gesprek kunnen voeren en een oplossing kunnen vinden.
-In-game regels
-
-Er zijn verschillende straffen die worden gehanteerd op verschillende overtredingen. De straffen die u hieronder ziet is een opzetvoorbeeld van hoe wij onze straffen naleven. Houdt er rekening mee dat er verschillende straffen kunnen worden gegeven binnen hetzelfde onderwerp, bijvoorbeeld fail RP kan in veel verschillende manieren worden gepleegd en daarbij kan dus een straf gelden van enkele uren tot enkele dagen. Daarnaast zal uw geschiedenis worden gecontroleerd en kan uw straf hoger uitvallen wanneer er geconstateerd wordt dat u al meerdere keren geband bent geweest.
 
 ### Algemene strafopzet:
+
+Er zijn verschillende straffen die worden gehanteerd op verschillende overtredingen. De straffen die u hieronder ziet is een opzetvoorbeeld van hoe wij onze straffen naleven. Houdt er rekening mee dat er verschillende straffen kunnen worden gegeven binnen hetzelfde onderwerp, bijvoorbeeld fail RP kan in veel verschillende manieren worden gepleegd en daarbij kan dus een straf gelden van enkele uren tot enkele dagen. Daarnaast zal uw geschiedenis worden gecontroleerd en kan uw straf hoger uitvallen wanneer er geconstateerd wordt dat u al meerdere keren geband bent geweest.
 
 
 [A] = 1 dag ban
