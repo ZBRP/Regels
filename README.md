@@ -366,7 +366,7 @@ Wanneer er iemand in RP meekijkt op je telefoon dan bent u niet in staat om nood
 
 New life rule in de gangwar betekent dat nadat u bent gestorven tijdens het scenario dat u niet meer actief mag deelnemen in de gangwar.
 
-Het is verplicht de gangkleding te dragen tijdens een gangwar.
+Het is verplicht de gangkleding te dragen tijdens een gangwar. Als u dood bent moet u andere kledij aantrekken zodat u niet herkenbaar bent als ganglid dat nog mee doet aan de gangwar.
 
 Een gangwar moet in twitter of nieuws worden vermeld zodat de tegenpartij op de hoogte wordt gesteld. 
 
