@@ -16,6 +16,7 @@
 - [🌍 Server Regels](https://github.com/ZBRP/Regels#server-regels)
 - [❌ Hacking / Bug Exploits / Abuse](https://github.com/ZBRP/Regels#hacking-bug-exploit-abuse)
 - [🏃‍♂️Roleplay](https://github.com/ZBRP/Regels#roleplay)
+- [❓ Speler reports & staff](https://github.com/ZBRP/Regel#speler-reports-&-staff)
 - [📱 Discord Regels](https://github.com/ZBRP/Regels#discord-regels)
 - [📚 Algemene strafopzet](https://github.com/ZBRP/Regels#algemene-strafopzet)
 - [🟩 Greenzone](https://github.com/ZBRP/Regels#greenzone)
@@ -56,7 +57,7 @@ Wanneer u getuige bent bug abuse of glitch abuse of iets anders in deze richting
 **LET OP**:
 Wanneer u wordt gedecteerd op gebruik van hacks/MOD menus/Cheatengine etc. Dan zult u worden geplaatst op een black list. Deze black list staat bekend bij meerdere steden en houdt in dat wanneer u op deze lijst wordt gezet u per direct geband zal worden in meerdere steden.
 
-### ROLEPLAY
+### Roleplay
 
 ZwanenBurg hanteert de Nederlandse wetgeving en verkeersregels.
 U dient ten alle tijden waarde te hechten aan uw eigen leven.
@@ -66,7 +67,7 @@ Het stelen van andermans voertuig ZONDER RP is verboden.
 AFK geld farmen is verboden.
 Het verklappen van locaties buiten in-game activiteiten is verboden.
 
-Speler reports & staff.
+### Speler reports & staff
 
 Wanneer u een vraag of een probleem ervaart in-game dan kunt u het staffteam contacteren door middel van de chatbalk te openen en vervolgens /assist (plaats hierin uw vraag of probleem) of /report (plaats hierin uw vraag of probleem) te typen. Het is van belang om hier kort en krachtig uw probleem te beschrijven zodat de juiste persoon ter plaatse kan komen om u te helpen.
 Een scenario MOET worden afgemaakt voordat het wordt beoordeeld door een stafflid. Echter wanneer een staff constateert dat het scenario uit de hand loopt dan mag deze nietig worden verklaard.
@@ -158,7 +159,7 @@ Wanneer er een wapen op u staat gericht zal u ten alle tijden moeten meewerken t
 
 Het starten van een actie tijdens een scenario waarbij het uw eigen leven gaat kosten, met de intentie om iemand daarin mee te nemen is verboden. Dus bijvoorbeeld wanneer u onder schot wordt gehouden door een gang om dan alsnog uw wapen te trekken en 2 personen neerschiet terwijl er meerdere wapens op u gericht staan.
 
-### GREENZONE
+### Greenzone
 
 GREENZONES [A] of [B]
 
