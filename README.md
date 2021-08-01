@@ -74,6 +74,90 @@ Een scenario MOET worden afgemaakt voordat het wordt beoordeeld door een staffli
 Toon respect voor de staff van de stad aangezien dit de mensen zijn die voor u klaar staan en er zijn om u te helpen! 
 Wanneer u toch een vraag heeft die in-game niet opgelost kan worden, dan verzoeken wij u vriendelijk naar de Discord wachtkamer te komen waar we een gesprek kunnen voeren en een oplossing kunnen vinden.
 
+### Discord regels
+
+ Algemene regels 
+
+ De Terms of Service en Community Guide Lines van Discord zullen strikt gehandhaafd worden.
+	Uitzonderingen van de regels kunnen bepaald worden door Staff.
+ Gebruik van kanalen
+	Tekst en spraakkanalen mogen enkel voor hun genoemde doel gebruikt worden.
+ Nederlands is de enige taal die gesproken mag worden buiten de taal-specifieke tekstkanalen.Bot commands mogen enkel in het # :robot:│bot-commands kanaal gebruikt worden.
+
+ Het spammen en 'overstromen' van een kanaal, evenals het zogenoemde 'kanaalhoppen' is niet toegestaan. Dit geldt ook voor het gebruik van bots. Als je het berichtenlimiet hebt  bereikt, dan wordt dat beschouwd als spammen.
+
+Het herhalen van dezelfde bot command die iemand anders net heeft uitgevoerd.
+
+Het onnodig, overmatig en ghost taggen van gebruikers en staff, evenals het taggen zonder er een bericht bij te voegen.
+
+Discussies die leiden tot onrust, waaronder het voeren van discussies over politieke zaken.
+
+Het delen van persoonlijk identificeerbare informatie (bijvoorbeeld naam, adres, e-mail, telefoonnummer, etc.) van jezelf of andere gebruikers.
+
+Microfoon en geluid
+
+Muziek mag enkel in het muziek spraakkanaal afgespeeld worden.
+
+Het afspelen van muziek buiten het muziek spraakkanaal, het gebruik van stemvervormers en soundboards.
+
+Het afspelen of toevoegen van muziek dat vulgair taalgebruik bevat of abnormaal lang duurt (>10 minuten).
+
+Adverteren
+
+Adverteren is niet toegestaan, met uitzondering van:
+
+Streams in het #:clapper:│content kanaal (één keer per stream).
+"
+Video’s in het # :clapper:│content kanaal.
+
+Reclame maken voor andere Discord guilds. Dit omvat het direct reclame maken in kanalen of via uitnodigingen, verkleinde URL's of het toevoegen van dergelijke zaken op media.
+
+Iedere vorm van dienstverlening (gratis of betaald), onder meer het adverteren via het gebruik van je gebruikers- of bijnaam of media in kanalen die daar niet voor bedoeld zijn.
+
+Ongevraagd uitnodigingen en/of advertenties naar anderen via directe berichten versturen.
+
+Gebruikersnamen en bijnamen
+
+Gebruikersnamen mogen enkel alfanumerieke karakters bevatten. Emojis mogen gebruikt worden in je naam, mits deze gecombineerd worden met enkele alfanumerieke karakers.
+
+Avatars moeten geschikt zijn voor alle leeftijden en voor op het werk. Ze mogen dus niet ongepast zijn of sexuele of bloederige inhoud bevatten. Hoewel we niet iedere uitzondering kunnen dekken in deze regel, zal het toegepast worden in de context van hoe de avatar gebruikt wordt.
+
+Ongepaste inhoud
+
+Het posten van ongepaste inhoud. Dit omvat (maar beperkt zich niet tot) het delen of posten van epilepsie uitlokkende, expliciete, ongepaste of pornografische inhoud en het distribueren van media van dit karakter.
+
+Het delen van links of bestanden die virussen, malware, illegale software, torrents, etc. bevatten die als illegaal beschouwd worden volgens internationale wetgeving is niet toegestaan.
+
+Het gebruik van IP trackers of andere kwaadaardige verzameltools is ten strengste verboden.
+
+Het bespreken of voorstellen van bovenstaande zaken is niet toegestaan.
+
+Sollicitatie's, bans en in-game gebeurtenissen
+
+Het bespreken van straffen, reports, tickets, appeals, sollicitaties en klachten over stafleden is niet toegestaan.
+
+Game Moderators verzoeken om bepaalde gebieden in het spel te modereren is niet toegestaan. Gebruik daarvoor het in-game of het web report systeem.
+
+Discord strafsysteem
+
+Straffen op Discord werken als volgt:
+
+mondelinge waarschuwing;
+
+3 waarschuwingen die opgeslagen worden in de logs;
+
+7 dagen geblokkeerd
+
+7 dagen ban;
+
+permanente ban.
+
+Straffen, ook waarschuwingen, vervallen nooit en worden opgeslagen in de logs. Indien je van account wisselt, dan zijn de straffen die je op het vorige account hebt ontvangen nog steeds van toepassing.
+
+Indien het nodig is, dan kan er afgeweken worden van de standaardvolgorde van het strafsysteem in 9.01.
+
+Je kunt in beroep gaan tegen een straf via het feedback systeem. Contacteer daarvoor het "Management".
+
 ### Algemene strafopzet:
 
 Er zijn verschillende straffen die worden gehanteerd op verschillende overtredingen. De straffen die u hieronder ziet is een opzetvoorbeeld van hoe wij onze straffen naleven. Houdt er rekening mee dat er verschillende straffen kunnen worden gegeven binnen hetzelfde onderwerp, bijvoorbeeld fail RP kan in veel verschillende manieren worden gepleegd en daarbij kan dus een straf gelden van enkele uren tot enkele dagen. Daarnaast zal uw geschiedenis worden gecontroleerd en kan uw straf hoger uitvallen wanneer er geconstateerd wordt dat u al meerdere keren geband bent geweest.
