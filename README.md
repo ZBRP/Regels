@@ -215,7 +215,7 @@ Het plaatsen van uw wapen in uw huis/appartement mag pas 20 minuten na het scena
 
 Spelers kunnen NIET worden geforceerd om geld te pinnen.
 
-Spelers kunnen NIET worden geforceerd om zijn/haar voertuig over te dragen.
+Spelers kunnen NIET worden geforceerd om zijn/haar voertuig het eigenaarschap over te dragen.
 
 Twitter is GÉÉN illegaal platform waar wapens, drugs locaties of andere criminele informatie verkocht mogen worden.
 
@@ -270,6 +270,8 @@ Het geven van een vergeetpil is niet toegestaan.
 Het ontvoeren van burgers is toegestaan op een verantwoordelijke manier met goed vertoonde RP. 
 
 Het ontvoeren van een persoon in de greenzone is echter verboden!
+
+Een persoon mag maximaal voor 1 uur ontvoerd worden.
 
 Voor het ontvoeren van een persoon dienen er minimaal 2 actieve agenten in de stad aanwezig te zijn.
 
