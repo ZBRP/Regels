@@ -343,7 +343,7 @@ Het is ten strengste verboden om zomaar te schieten met uw wapen zonder dat daar
 Wordt er geconstateerd dat u dit wel doet dan volgt er een waarschuwing. Na meerdere waarschuwingen te hebben ontvangen zal uw wapen worden ingenomen.
 
 ### Voertuigen
-Pitten onder de 100 km/uur is verboden.
+Pitten boven de 100 km/uur is verboden.
 
 Break checken is verboden of ervaar de consequenties.
 
