@@ -14,10 +14,23 @@
 # ZwanenBurgRP-Regels
 
 - [🌍 Server Regels](https://github.com/ZBRP/Regels#server-regels)
-- [❌ Hacking / Bug Exploits / Abuse](https://github.com/ZBRP/Regels#hacking-bug-exploits-abuse)
+- [❌ Hacking / Bug Exploits / Abuse](https://github.com/ZBRP/Regels#hacking-bug-exploit-abuse)
 - [🏃‍♂️Roleplay](https://github.com/ZBRP/Regels#roleplay)
 - [📱 Discord Regels](https://github.com/ZBRP/Regels#discord-regels)
-- [🎮 In-game Regels](https://github.com/ZBRP/Regels#in-game-regels)
+- [📚 Algemene strafopzet](https://github.com/ZBRP/Regels#algemene-strafopzet)
+- [🟩 Greenzone](https://github.com/ZBRP/Regels#greenzone)
+- [🎞 Clips](https://github.com/ZBRP/Regels#clips)
+- [🍳 Criminele Regels](https://github.com/ZBRP/Regels#criminele-regels)
+- [🔫 Overvallen bank juwelier winkel](https://github.com/ZBRP/Regels#overvallen-bank-juwelier-winkel)
+- [🔪 Overvallen burgers](https://github.com/ZBRP/Regels#overvallen-burgers)
+- [🩸 Vermoorden van burgers](https://github.com/ZBRP/Regels#vermoorden-van-burgers)
+- [🎭 Ontvoeringen](https://github.com/ZBRP/Regels#ontvoeringen)
+- [💰 Scammen](https://github.com/ZBRP/Regels#scammen)
+- [🔫📰 Wapenwet](https://github.com/ZBRP/Regels#wapenwet)
+- [🚗 Voertuigen](https://github.com/ZBRP/Regels#voertuigen)
+- [📻 Communicatiemiddelen](https://github.com/ZBRP/Regels#communicatiemiddelen)
+- [�💥💢Regels omtrent gang War](https://github.com/ZBRP/Regels#regels-omtrent-gang-war)
+
 
 ### Server regels
 
@@ -31,7 +44,7 @@ Bij het creëren van uw personage dient u rustig uw tijd te nemen. Zoek een leuk
 
 Pas wel op bij het creëren van een outfit dat u geen overheidskleding aantrekt of attributen met betrekking tot politiekleding en dergelijke.
 
-### Hacking Bug Exploits  Abuse
+### Hacking Bug Exploit Abuse
 
 Clientside scripts zijn ten strengste verboden.
 
@@ -202,7 +215,7 @@ Twitter is GÉÉN illegaal platform waar wapens, drugs locaties of andere crimin
 
 U dient alleen een masker te dragen tijdens criminele activiteiten.
 
-### Overvallen bank/juwelier/winkel
+### Overvallen bank juwelier winkel
 
 Grote bank overval: actieve deelname mag vanaf 8 actieve agenten.
 Max aantal hostages: 10
