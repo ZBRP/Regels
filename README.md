@@ -14,101 +14,138 @@
 # ZwanenBurgRP-Regels
 
 - [🌍 Server Regels](https://github.com/ZBRP/Regels#server-regels)
-- [👮 Politie Regels](https://github.com/ZBRP/Regels#politie-regels)
-- [🔫 Criminele Regels](https://github.com/ZBRP/Regels#criminele-regels)
+- [❌ Hacking / Bug Exploits / Abuse](https://github.com/ZBRP/Regels#hacking/bug/exploits/abuse)
+- [🏃‍♂️Roleplay](https://github.com/ZBRP/Regels#roleplay)
 - [📱 Discord Regels](https://github.com/ZBRP/Regels#discord-regels)
+- [🎮 In-game Regels](https://github.com/ZBRP/Regels#in-game-regels)
 
-### Server Regels
-•    Staff team:
- Hulp nodig? -> Vraag eerst om een Moderator, reageert deze niet of niet aanwezig? -> /assist en report dien je daarvoor te gebruiken
-
-De staff hebben alle rechten m.b.t. kicken/bannen/spectaten.
-
-Een ban kan altijd later komen dan wanneer het incident plaats heeft gevonden.
-
-Unbanformulier (Voor Discord/Server) kun je elders vinden op onze website. www.zwanenburgroleplay.nl
-
-Ga niet onnodig in discussie met een Moderator of Admin.
-
-
-
-Het gebruik maken van alt account(s), startersgeld vragen/ontvangen is verboden! Wanneer wij dit ontdekken word dit dan ook per direct van jou ontnomen.
+### Server regels
 
 Creëren van een karakter:
 
-Gebruik hiervoor /register (mocht je max limiet hebben egrbuik dan eerst /delchar
+Gebruik hiervoor /register in de chatbalk
+Wanneer uw character wilt verwijderen doe dan het volgende:
+/delchar 
+
+Bij het creëren van uw personage dient u rustig uw tijd te nemen. Zoek een leuke en passende outfit voor uzelf uit zodat u volwaardig de stad kunt betreden.
+
+Pas wel op bij het creëren van een outfit dat u geen overheidskleding aantrekt of attributen met betrekking tot politiekleding en dergelijke.
+
+### Hacking / Bug Exploits / Abuse
+
+Clientside scripts zijn ten strengste verboden.
+
+Misbruik maken van glitches en/of abuses is ten strengste verboden.
+U dient ten alle tijden een melding te maken van een bug of glitch die u hebt geconstateerd.
+Wanneer u getuige bent bug abuse of glitch abuse of iets anders in deze richting dan dient u daar direct melding van te maken en het staffteam in te schakelen.
+**LET OP**:
+Wanneer u wordt gedecteerd op gebruik van hacks/MOD menus/Cheatengine etc. Dan zult u worden geplaatst op een black list. Deze black list staat bekend bij meerdere steden en houdt in dat wanneer u op deze lijst wordt gezet u per direct geband zal worden in meerdere steden.
+
+### ROLEPLAY
+
+ZwanenBurg hanteert de Nederlandse wetgeving en verkeersregels.
+U dient ten alle tijden waarde te hechten aan uw eigen leven.
+Bedrijfsvoertuigen mogen enkel worden gebruikt voor de job waar ze voor bedoeld zijn.
+Een bedrijfsvoertuig mag niet worden vervangen met gebruik van een privéwagen.
+Het stelen van andermans voertuig ZONDER RP is verboden.
+AFK geld farmen is verboden.
+Het verklappen van locaties buiten in-game activiteiten is verboden.
+Speler reports & staff
+
+Wanneer u een vraag of een probleem ervaart in-game dan kunt u het staffteam contacteren door middel van de chatbalk te openen en vervolgens /assist (plaats hierin uw vraag of probleem) of /report (plaats hierin uw vraag of probleem) te typen. Het is van belang om hier kort en krachtig uw probleem te beschrijven zodat de juiste persoon ter plaatse kan komen om u te helpen.
+Een scenario MOET worden afgemaakt voordat het wordt beoordeeld door een stafflid. Echter wanneer een staff constateert dat het scenario uit de hand loopt dan mag deze nietig worden verklaard.
+Toon respect voor de staff van de stad aangezien dit de mensen zijn die voor u klaar staan en er zijn om u te helpen! 
+Wanneer u toch een vraag heeft die in-game niet opgelost kan worden, dan verzoeken wij u vriendelijk naar de Discord wachtkamer te komen waar we een gesprek kunnen voeren en een oplossing kunnen vinden.
+In-game regels
+
+Er zijn verschillende straffen die worden gehanteerd op verschillende overtredingen. De straffen die u hieronder ziet is een opzetvoorbeeld van hoe wij onze straffen naleven. Houdt er rekening mee dat er verschillende straffen kunnen worden gegeven binnen hetzelfde onderwerp, bijvoorbeeld fail RP kan in veel verschillende manieren worden gepleegd en daarbij kan dus een straf gelden van enkele uren tot enkele dagen. Daarnaast zal uw geschiedenis worden gecontroleerd en kan uw straf hoger uitvallen wanneer er geconstateerd wordt dat u al meerdere keren geband bent geweest.
+
+### Algemene strafopzet:
+
+
+[A] = 1 dag ban
+[B] = 3 dagen ban
+[C] = 1 week ban
+[D] = Permanente ban
+
+Nogmaals, de straffen kunnen per overtreding alsnog verschillen en ziet u bovenstaand een opzetvoorbeeld van hoe zwaar de straffen ongeveer gelden.
+
+Ten alle tijden in character blijven [A]
+
+U dient ten alle tijden in uw roleplay character te blijven en uw RP niet te breken.
  
-Neem de tijd met het creëren van je karakter. Kies een leuk kapsel uit en leuke mooie kleren. (Let op! Geen overheidsdienstenkleding of attributen betrekking tot wapens zoals een holster).
+Wanneer iemand een van de regels overtreedt, wijs hem dan op de regels maar blijf tegelijkertijd in uw character rol.
 
-Koop een telefoon in een van de vele winkels in de stad.
+Probeer anderen niet te lokken om buiten RP te stappen.
 
-OOC Chat is puur voor VDM/RDM berichten, hackers, iemand die vast zit onder de map enzovoorts.
+/OOC praten (out of character) [A]
 
-Termen:
+/OOC is ervoor bedoeld om vragen te beantwoorden die niet kunnen verholpen worden in ons Discord kanaal of is bedoeld technische problemen te bespreken.
 
-FailRP is wanneer je de regels overtreedt tijdens de RolePlay of Out Of Character gaat
+/OOC is geen chatkanaal om een alledaags gesprek te voeren.
 
-OOC is Out Of Character, oftewel je zit niet meer in je rol en zodoende de RolePlay afbreekt. Dis is niet toegestaan.
+Metagaming [C] of [D]
 
-RDM is random deathmatch: het zomaar vermoorden of slaan van mensen zonder roleplay dit is FailRP.
+Metagaming is het verkrijgen van informatie die niet in-game is verkregen, dit is ten strengste verboden.
 
-VDM is Vehicle deathmatch: het zomaar vermoorden of aanrijden van mensen met voertuigen zonder roleplay dit is FailRP.
+Het is verboden om via de Discord, streamersplatform of een ander platform te gebruiken om informatie in-game te achterhalen, bijvoorbeeld locaties, etc.
 
-Metagaming is informatie buiten de game in het spel gebruiken en dit is FailRP en is ten strengste verboden.
+Restarts [A]
 
-Power Gaming: RolePlay opdringen waarop de andere persoon geen kans heeft om te reageren. (vb /me slaat persoon knockout en snijdt zijn keel door). Geen mechanics gebruiken die niet in de game zitten. (bijv /me gebruikt kettingzaag). Geef de andere persoon altijd kans om te reageren op jou RolePlay.
+De minuten vlak vóór een restart dienen serieus genomen te worden.
 
-Combat Loggen is FailRP en is ten strengste verboden.
+De roleplay mag niet worden verbroken i.v.m. een restart, enkel worden stilgelegt.
 
-Bedrijfsvoertuigen/Hulpdienstvoertuigen stelen is verboden.
+Het kloten vlak voor een restart is verboden, in deze tijd zullen dezelfde regels gelden als normaal.
 
-Hacking/Bug Exploits/Abuse:
+Fail RP / Powergaming [B] of [C]
 
-Clientside scripts zijn niet toegestaan en hier staat Permaban op.
+Fail RP kan voorkomen in veel verschillende mogelijke manieren, echter is het wel verboden.
 
-Glitch/bug misbruik is niet toegestaan en hier staat Permaban op.
+Enkele voorbeelden van Fail RP en Powergaming zijn:
 
-Ben je getuige hiervan of verdenk je hier iemand van, laat dit de Staff weten. Heb je bewijs, stuur dit graag mee. Je bent ten alle tijden verplicht om Bugs of Glitches te melden. Mocht je dit bijvoorbeeld per ongeluk overkomen zijn, meld dit per direct. Doe je dit niet, dan gaan we ervan uit dat je dit expres doet en krijg je Permaban.
+Praten terwijl u dood op de grond ligt.
+/me snijdt keel door
+/me slaat knockout
+/me pakt kettingzaag
 
-Gebruik maken van MOD-menu’s of Cheatengine is automatisch een Permaban. Verder zullen we je aanmelden op een Black-List. Hier werken meerdere Nederlandse samen om hackers tegen te gaan. Dit houdt in dat je dan ook een Permaban krijgt op meerdere Nederlandse servers.
+Manieren vinden om heel snel geld te farmen i.p.v. de roleplay van de job uit te voeren.
 
-RolePlay:
-We praten Nederlands op ZwanenBurg en communiceren ook zo met elkaar.
+Oftewel, het hanteren van eigen dingen die niet in de game toegevoegd zijn is verboden.
 
-Je leven is heilig, dus doe geen dingen die dit overduidelijk in gevaar zal brengen (wegrennen als er een wapen op je gericht is).
+Random Death Match (RDM) [B] of [C] & Vehicle Death Match (VDM) [D]
 
-Geef andere een kans om te reageren in je RolePlay. RolePlay kun je niet alleen doen.
+Het aanvallen van een speler of groep spelers zonder enige reden is verboden en valt onder RDM.
 
-Met ziektes schelden doen we niet hier! Staat Permaban op!
+Het opzettelijk aanrijden van een speler met de intentie om iemand te doden is ten strengste verboden en zal worden gezien als VDM.
 
-Hou je aan de Nederlandse verkeersregels.
+Het random beginnen van een schiet of steekpartij zonder enige roleplay is verboden en zal worden gezien als RDM.
 
-Hou je aan de Nederlandse Wetgeving.
+Het beuken (pitten) van een auto boven een snelheid van 100 km/uur is verboden en zal worden gezien als VDM.
 
-Bedrijfsvoertuigen mogen niet gebruikt worden voor iets anders dan voor de baan dat ze bedoeld zijn.
+New Life Rule (NLR) [B]
 
-Je baan voer je ook uit met je bedrijfsvoertuig en niet met je privé voertuig.
+Wanneer u bent gestorven in roleplay, dan bent u alle informatie kwijt dat heeft geleid naar de situatie waarin u bent gestorven. 
 
-Je masker heb je alleen op met grote criminele activiteiten zoals Bank/Winkel overvallen, of moorden. Niet als je gaat plukken en dergelijke.
+Wanneer u een nieuw leven start dan bent u eerder verkregen informatie kwijt en zal u een ‘nieuw leven’ moeten starten.
 
-Zeuren of Politie/Hulpverleners of ANWB in dienst gaan, is niet wenselijk
+Het overtreden van de ‘New Life Rule’ is verboden en zal worden gestraft wanneer wordt geconstateerd dat u gebruik maakt van informatie terwijl u dat vergeten hoort te zijn.
 
-Hou je aan de juiste aantallen items in je inventory (10/10 water ipv 15/10).
+No Value Of Life (NVOL) [B]
 
-### Politie Regels
-1. Deze komen zsm erbij te staan!
+Wanneer u wordt bedreigd of uzelf in een situatie verkeerd waarin u gevaar loopt voor uw eigen leven dan zal u hier realistisch in moeten meewerken.
 
-### Criminele Regels
-1. Scammen: Het is niet toegestaan om te scammen met voertuigen of mensen die bezig zijn met een (non)whitelistedjob. Mits je wel scamt zal hier een limiet op gelden van €30.000.
-2. Twitter: Twitter is geen illegaal platform waar jij spullen mag verkopen zoals: wapens, drugs locaties en andere criminele informatie. Deze regels gelden het zelfde voor het kopen van criminele informatie op het platform.
-3. Outfit: je mag geen holster of een masker op hebben behalve tijdens criminele activiteiten (niet als je met je normale dagelijke bezigheden bezig bent) 
+Wanneer er een wapen op u staat gericht zal u ten alle tijden moeten meewerken tenzij er een andere mogelijk ontstaat.
 
-4. Als een persoon is opgepakt met een wapen mag hij tijdens het vervoer naar HB nog gered worden met goede roleplay! als de verdachte in de politie auto bij HB is mag er niks meer ondernomen worden!
-5. Na 3 vorderingen van politie als je dan nog niet luistert krijg je snelrecht en mag je 30min de cel in! 
+Het starten van een actie tijdens een scenario waarbij het uw eigen leven gaat kosten, met de intentie om iemand daarin mee te nemen is verboden. Dus bijvoorbeeld wanneer u onder schot wordt gehouden door een gang om dan alsnog uw wapen te trekken en 2 personen neerschiet terwijl er meerdere wapens op u gericht staan.
 
+### GREENZONE
 
+GREENZONES [A] of [B]
 
-6. GREENZONES
+Greenzones zijn veilige zones waarin een persoon zich hoort te gedragen. In deze gebieden mogen geen criminele scenario's worden gestart en dergelijke.
+
+De volgende locaties vallen onder de greenzone:
 
 * Ziekenhuis
 
@@ -124,232 +161,208 @@ Hou je aan de juiste aantallen items in je inventory (10/10 water ipv 15/10).
 
 <img src="https://i.imgur.com/lcaWIgI.pngwidth=403&height=230" />
 
+* Koninklijke Marechausseebureau
 
+<img src="https://imgur.com/Fk7ZMtK.png" />
 
-7. Ontvoeren
-* Het ontvoeren van burgers is toegestaan zolang er een goeie RP, Of gedachte achter zit die kan worden uitgelegd door middel van een clip.
-* Het ontvoeren van burgers mag niet als degene op dat moment op een greenzone staat! Is deze hierheen gevlucht en dit staat op je clip mag je dit wel doen!
+Het is NIET toegestaan om vanuit een scenario naar een greenzone te vluchten om daar te schuilen. In dit geval zal het scenario zich gewoon voortzetten.
 
-8. Overvallen van burgers
-* Het overvallen van iemand die een whitelisted/nonwhitelisted job uitvoert is streng verboden (Kan je zien aan de Outfit!)
-* Het overvallen van burgers in greenzone plekken is niet toegestaan! ziekenhuis,PolitieBureau en BPG).
-* Het overvallen van burgers die minder dan 1 week in de stad zijn is streng verboden!
-* Het overvallen van burgers die in een greenzone staan mogen niet worden overvallen dit is streng verboden!
-* Na het overvallen van een burger mag je hem/haar niet vermoorden.
-* Het overvallen van burgers is maximaal voor een bedrag van €3,000. Je mag iemand ALLEEN beroven als die aan criminele activiteiten doet!
-* Het overvallen van dezelfde burger is niet toegestaan.
-* Het overvallen van burgers mag altijd! Mits je je aan de boven geschreven regels houdt!
+### Clips
+Het maken van clips is ten strengste aangeraden aangezien dit bewijs is voor uzelf voor al uw daden en acties (bijv. Aankopen) in-game.
 
-◦ Let op!
-➥ Bij het overvallen van burger zullen de spullen die zijn ingenomen door de overvaller wordt teruggegeven aan de die is overvallen! Worden er meerdere feiten geconstateerd * zullen deze worden opgeteld en leiden tot een hogere straf.
+Door te clippen wat u doet heeft u bewijs en kan het staffteam beter optreden tegen de mensen die u lastigvallen of iets verkeerds hebben gedaan.
 
-➥ Er mogen leuke overval ideeen buiten een bank, juwelier of winkel om uitgevoerd worden met toestemming van de eerste hoofdcommisaris. 
+Er zijn genoeg clipprogramma's die u kunnen helpen dit te doen.
 
-Tijdens het fictieve evenement worden er geen wapens of straffen of boetes uitgedeeld. 
+Staff zal in de meeste gevallen vragen om een clip.
 
-➥ Je mag geen auto stelen zonder roleplay!
+Zonder clip kan een stafflid géén refund doen.
 
+### Criminele regels:
 
+Belangrijke regels criminelen:
 
+Het farmen/verpakken/verkopen van drugs dient u met uw character te doen. Het is verboden dit te doen vanuit uw voertuig.
 
+Wanneer u zich bevindt op een criminele locatie is het niet toegestaan om hulpdiensten zoals ANWB in te schakelen.
 
+Het zomaar starten van een achtervolging zonder dat er enige reden voor is verboden.
 
+Bijvoorbeeld wanneer u staande wordt gehouden door de politie voor een verkeersovertreding en u heeft geen verboden middelen of wapens op zak dan dient u te stoppen en mee te werken. 
 
+Wanneer u deel heeft genomen aan een scenario waarin een moord/overval/gijzeling is gedaan dan dient u minimaal 20 minuten in hetzelfde voertuig en outfit rond te lopen.
 
-◦ Het vermoorden van burgers
-➥ Als je iemand doodgeschoten hebt geldt er voor 20 minuten geen greenzone
+Het plaatsen van uw wapen in uw huis/appartement mag pas 20 minuten na het scenario.
 
-➥ Het vermoorden van burgers mag, mits er wordt voldaan aan de regels van het overvallen van burgers.
+Spelers kunnen NIET worden geforceerd om geld te pinnen.
 
-➥ Er moet worden voldaan aan een duidelijk RP Scenario. (beoordeeld door een staflid)
+Spelers kunnen NIET worden geforceerd om zijn/haar voertuig over te dragen.
 
-➥ Het vermoorden van burgers is niet toegestaan op de volgende plekken: Blokkenpark garage, Ziekenhuis, Auto Dealer, Politiebureau, ANWB HQ, Casino.
+Twitter is GÉÉN illegaal platform waar wapens, drugs locaties of andere criminele informatie verkocht mogen worden.
 
-➥ Het vermoorden van hostages mag als het scenario escaleert anders is dit niet toegestaan.
+U dient alleen een masker te dragen tijdens criminele activiteiten.
 
-◦ Overval op een bank,juwelier of winkel
-➥ Max overvallers bij een grote bank is 10. Met outsite shooters (die mogen alleen schieten als hun collega’s in een levensbedreigende situatie zit)
+### Overvallen bank/juwelier/winkel
 
-➥ Max overvallers bij een kleine bank is 3.
+Grote bank overval: actieve deelname mag vanaf 8 actieve agenten.
+Max aantal hostages: 10
+Outside shooters toegestaan (mogen alleen schieten wanneer hun collega's in een levensbedreigende situatie zijn)
 
-➥ Max overvallers bij een Juwelier is 3.
+Juwelier overval: actieve deelname mag vanaf 5 actieve agenten.
+Max aantal hostages: 5
+Kleine bank overval: actieve deelname mag vanaf 5 actieve agenten.
+Max aantal hostages: 5
+Winkelovervallen: actieve deelname mag vanaf 3 actieve agenten.
+Max aantal hostages: 3
+Tijdens een overval kan er géén geld van de bedrijfsrekening worden gestolen.
+Vrienden als hostage gebruiken bij een overval is verboden en hiervoor zullen sancties worden opgelegd.
+Het is verboden om (ANO) VPN te gebruiken via Twitter, de politie heeft hacksystemen.
+Er mogen maximaal 3 eisen worden gesteld tijdens een overval.
 
-➥ Max overvallers bij een winkel is 2.  
+### Overvallen burgers
 
-➥ Max hostages bij een kleine bank of juwelier 5.
+Gijzeling/beroven van spelers: actieve deelname mag vanaf 3 actieve agenten.
 
-➥ Max hostages bij een winkel is 3.
+Maximale limiet om te beroven van een speler: 3K (3000 euro).
 
-➥ Max hostages bij een grote bank is 10.
+Overvallen van een burger die actief een (non) whitelisted job uitvoert is ten strengste verboden. Deze personen kunt u herkennen aan hun werkkleding.
 
-➥ De onderhandelaar mag niet worden gegijzeld of beschoten worden in onderhandeling.
+Het is verboden om burgers te overvallen die korter dan 1 week in de stad zijn TENZIJ de personen op dat moment actief deelnemen aan criminele activiteiten.
 
-➥ Het onnodig doodschieten van hostages mag niet!
+Na het overvallen van een burger mag u hem/haar niet vermoorden.
 
-➥ Vrienden als hostage nemen is ten strengste verboden.
+Het opnieuw overvallen van dezelfde burger is niet toegestaan.
 
-➥ Aantal politie online voor een winkel is 3. alleen met DSI als er een hostage is!
+Het geven van een vergeetpil is niet toegestaan.
 
-➥ Aantal politie online voor een kleine bank is 5. Met DSI
+### Vermoorden van burgers
 
-➥ Aantal politie online voor een grote bank is 8. Met DSI
+Wanneer u iemand hebt vermoord dan is de greenzone 20 minuten ongeldig voor u.
 
-➥ Aantal politie online voor een juwelier is 5. Met DSI
+Er moet duidelijke RP worden vertoond bij het vermoorden van een burger. 
 
-➥ Wapengebruik bij een overval:
-Een winkel mag jij overvallen met een meleewapen en vuurwapen. 
-Een kleine bank of juwelier met een vuurwapen. 
-Een grote bank groot kaliber vuurwapen ak47, Micro smg en uzi
+Random shootouts en dergelijke zijn NIET toegestaan.
 
+Het vermoorden van een hostage is toegestaan wanneer het scenario escaleert en er vanuit de andere partij niet wordt geluisterd of meegewerkt.
 
+Het geven van een vergeetpil is niet toegestaan.
 
+### Ontvoeringen
+Het ontvoeren van burgers is toegestaan op een verantwoordelijke manier met goed vertoonde RP. 
 
+Het ontvoeren van een persoon in de greenzone is echter verboden!
 
+Voor het ontvoeren van een persoon dienen er minimaal 2 actieve agenten in de stad aanwezig te zijn.
 
+Het geven van een vergeetpil is niet toegestaan.
 
-◦ RolePlay tegen over de politie
-➥ Het schieten op politie mag in de volgende Scenario’s, Bank overval waarin de politie binnenvalt of schiet, In geval van nood (alleen waarschuwing schoten), Als je een politie onder schot hebt en er komt back-up en het wordt gevaarlijk voor jou en je collega mag je schieten,onnodig schieten is een ban.
+### Scammen
+Voertuigen scammen is verboden.
 
-➥ Als je op een politie schiet probeer altijd eerst op de benen te schieten! Onnodig politie doodschieten is een ban
+Het is verboden om spelers te scammen/overvallen die bezig zijn met een (non) whitelisted job.
 
-➥ Een politie onderhandelaar mag niet liegen en een overvaller mag ook niet liegen.
+Redden van een opgepakt persoon
 
-➥ Een politie onderhandelaar mag het moeilijker maken waardoor improvisatie noodzakelijk is. Als een onderhandelaar het te moeilijk maakt voor je mag je zonder toestemming vertrekken.
+Een persoon die is opgepakt mag gered worden van de politie enkel totdat het politievoertuig is aangekomen op het hoofdbureau. Wanneer het voertuig volledig op politieterrein bevindt dan mag de aangehouden persoon niet meer gered worden.
 
-➥ De politie mag binnenvallen als het verantwoordelijk kan en zonder hostages in gevaar te brengen.
+Het redden van een persoon dient te gebeuren onder verantwoordelijke RP, dit betekent dus dat er geen combat zone mag worden gecreëerd. 
 
+Roleplay tegen de politie
+Het schieten op politie is toegestaan in de volgende scenario's:
+Bankoverval waarin de politie een vuurgevecht start of binnenvalt.
 
+In geval van nood.
 
+Wanneer u een agent onder schot houdt en u ziet versterking aankomen.
 
-◦ Hekjes plaatsen van politie 
-➥ er kan een motor doorheen maar geen auto, met goede roleplay en onderhandeling kan de hekjes weggeplaatst worden. 
+Het onnodig en zomaar schieten op politie valt onder RDM.
 
-◦ Schoten lossen door een politieagent
-➥ Er mag alleen gericht geschoten worden als de agent in een levensbedreigende situatie zit. 
+Tijdens een onderhandeling mag zowel de onderhandelaar van de politie als de criminelen NIET tegen elkaar liegen. U dient alle vragen die worden gesteld naar eerlijkheid te beantwoorden zowel crimineel als politie.
 
+Een onderhandelaar mag de onderhandeling vermoeilijken door middel van improvisatie. Wanneer het te moeilijk wordt gemaakt dan is het toegestaan eerder te vertrekken dan aangegeven.
 
-◦ Het ontvoeren van Politie
-➥ Het ontvoeren van politie mag pas als er 6 agenten in dienst zijn.
+Politie mag enkel binnenvallen wanneer dit op een verantwoordelijke manier gebeurt zonder dat de hostages in gevaar worden gebracht.
 
-➥ Het losgeld vragen voor een politie agent is toegestaan het maximale bedrag van dit bedraagt 100.000 euro.
+Politie is bevoegd om tijdens overvallen en dergelijke hekken te plaatsen mits er minstens 1 rijbaan open is om doorheen te rijden.
 
-➥ Het meerdere malen op 1 dag een en dezelfde agent ontvoeren is niet toegestaan.
+Een politieagent mag enkel gericht schieten om te doden wanneer hij/zij in een levensgevaarlijke situatie voor eigen leven verkeerd.
 
-➥ Het maximale agenten dat mag worden ontvoert per dag is 1.
+Politie is bevoegd om u te fouilleren wanneer er een schietmelding in de buurt heeft plaatsgevonden.
 
-◦ Wanneer mag je gefouilleerd worden
+Daarnaast mogen ze dit ook doen bij het dragen van een masker/holster/tas bij een dreigingsniveau van 4 of hoger.
 
-➥ Als je een holster om hebt.
+Fouilleren is ook toegestaan wanneer ze u betrappen op deelname aan criminele activiteiten.
 
-➥ Als je vlucht voor de politie.
+Het is echter NIET toegestaan om gefouilleerd te worden bij enkel een verkeersovertreding.
 
-➥ Preventief fouilleren mag wanneer het dreigingsniveau 5 is.
+Ontvoeren van politie/KMAR
 
-➥ Fouilleren mag als er een schietmelding in de omgeving is.
+Ontvoeringen op politie en KMAR is toegestaan vanaf 7 actieve agenten in dienst.
 
-➥ Fouilleren mag als ze je betrappen op illegale activiteiten.
+Het vragen van losgeld voor een politieagent is toegestaan met een maximaal bedrag van 100.000 euro.
 
-➥ Je mag NIET worden gefouilleerd als je een verkeersovertreding begaat.
+Het is niet toegestaan om meerdere ontvoeringen op dezelfde dag te doen.
 
-◦ Vuurwapenwet
-➥ Wordt er een mes op je gericht en sta je binnen Steekafstand werk je mee, kan je wegrennen of een pistool trekken mag dat wel maar heb je t risico dat je wordt gestoken!
+Het geven van een vergeetpil is niet toegestaan.
 
-➥ Als je wordt gestoken mag je niet meer RENNEN, je mag wel LOPEN!
+### Wapenwet
 
-➥ Als er een Mes op je gericht staat en je zit in een Auto mag je doorrijden.
+Wanneer er een mes op u wordt gericht en u bent binnen steekafstand dan dient u ten alle tijden mee te werken.
 
-➥ Als er een vuurwapen op je gericht staat dien je ten alle tijden mee te werken! Wegrennen of de desbetreffende persoon aanvallen is ten strengste verboden en word de No Value of Life regel toegepast (als er een mes binnensteek ruimte op je is gericht vervalt deze regel)
+Als er een moment komt dat u in staat bent om weg te rennen doordat de persoon zijn mes laat zakken dan bent u bevoegd om dit te doen en te blijven rennen of een pistool te trekken op de persoon. DIT KAN ALLEEN OP DE JUISTE MOMENTEN!
 
-➥ Word er geen wapen gericht op jou of je collega’s en heeft hij of zij hem niet meer in zijn hand mag je je wapen trekken, mits je niet meer in het zicht van de overvaller of politie bent, ben je in de minderheid is een wapen trekken een NO GO!
+Wanneer u bent gestoken dan bent u niet meer in staat om te rennen, lopen wel.
 
-◦ Regels ten aanzien van auto gebruik
-➥ Het pitten onder de 100 KM Per/Uur is toegestaan! Remt degene die wordt achtervolgd en de politieauto of normale auto's botst ertegenaan is dit toegestaan.
+Wanneer er een mes op u wordt gericht maar u in een auto zit waarvan de motor loopt dan mag u wegrijden.
 
-➥ Het pakken van een auto uit de garage in een achtervolging mag niet! Staat er ergens een vriend die je ophaalt is wel toegestaan!
+Wanneer er een vuurwapen op u gericht staat dan dient u ten alle tijden mee te werken anders zal dit worden gezien als Fail RP of NVOL. Ditzelfde geldt voor steekwapens.
 
-➥ Bij een Fatale klap of crash in een achtervolging blijf je in je auto zitten als er een Scenario uit voort kan komen!
+Het is ten strengste verboden om zomaar te schieten met uw wapen zonder dat daar enige reden toe is. 
 
+Wordt er geconstateerd dat u dit wel doet dan volgt er een waarschuwing. Na meerdere waarschuwingen te hebben ontvangen zal uw wapen worden ingenomen.
 
+### Voertuigen
+Pitten onder de 100 km/uur is verboden.
 
+Break checken is verboden of ervaar de consequenties.
 
+Het pakken van een voertuig uit uw garage tijdens een scenario is verboden.
 
-◦ FAIL RP scenarios/situaties
-➥ Het vluchten nadat iemand je probeert te pitten, overvallen, kidnappen naar een greenzone is ten strengste verboden!
+Het is wel toegestaan om vrienden te bereiken die u kunnen helpen.
 
-➥ OOC praten in een scenario is ten strengste verboden
+Het voorbereidend plaatsen van voertuigen op strategische plekken om de achtervolging door te zetten is wel toegestaan wanneer dit vooraf gebeurt en niet tijdens het scenario.
 
-➥ Je mag geen overheidsvoertuig stelen! 
+Bij een fatale crash of botsing dient u mee te werken aan de RP van een ongeluk. U zult niet in staat zijn om zomaar het voertuig te verlaten en weg te rennen in dit geval.
 
+### Communicatiemiddelen
+Wanneer uw communicatie wordt afgepakt (telefoon/portofoon) dan bent u niet meer in staat om anderen te laten weten wat er gaande is.
 
-◦ Communicatie regels
-➥ Worden je Communicatie middelen afgepakt dien je jezelf te muten in discord hierbij zal ook je bodycam moeten worden afgesloten.
+Wanneer u op dat moment in Discord bent met collega's dan dient u zichzelf direct te muten. Wordt dit niet gedaan dan valt het onder metagaming.
 
-➥ Praat je in je oortje zorg ervoor dat je dit ook ingame doet als er mensen in je buurt zijn.
+U bent verplicht te communiceren via in-game communicatiemiddelen.
 
-➥ Kijkt iemand mee op je telefoon dan mag je de politie niet bellen of sms’en.
+Wanneer er iemand in RP meekijkt op je telefoon dan bent u niet in staat om nooddiensten zoals politie en dergelijke in te schakelen.
 
-➥ Het geven van een ''vergeet pil' mag niet' na dat je een burger overvalt. (dit mag wel in de volgende scenario's, als een gangmember de gang verlaat of eruit word gekicked).
+### Regels omtrent Gang War
 
-◦ Regels over de GangWar
-➥ New Life rule in de gangwar betekend dat nadat je bent doodgeschoten ook niet meer mag meedoen aan t scenario en je ook je outfit moet veranderen.
+New life rule in de gangwar betekent dat nadat u bent gestorven tijdens het scenario dat u niet meer actief mag deelnemen in de gangwar.
 
-➥ Je bent verplicht om je eigen gang outfit te dragen.
+Het is verplicht de gangkleding te dragen tijdens een gangwar.
 
-➥ Een gangwar moet worden aangegeven bij hoofdstaff. Als er iemand vermoord is dient de baas of onderbaas een pm te sturen na hoofdstaff met de naam van de player. 
+Een gangwar MOET worden aangegeven bij hoofdstaff of management en moet in twitter of nieuws worden vermeld zodat de tegenpartij op de hoogte wordt gesteld. 
 
-➥ maximale tijd van een gangwar is : 12 uur.
+De personen die zijn vermoord tijdens de gangwar moeten worden bijgehouden door de gangbaas of onderbaas.
 
-➥ alle normale regels gelden naast de gangwar ook.
+De maximale tijd voor een gangwar: 12 uur
 
-➥ In de gangwar zijn de er GEEN safezones.
+Tijdens een gangwar zijn er GEEN safezones.
 
 
 
-### Discord Regels
-1. Algemene regels 
-	- De Terms of Service en Community Guide Lines van Discord zullen strikt gehandhaafd worden.
-	- Uitzonderingen van de regels kunnen bepaald worden door Staff.
-2. Gebruik van kanalen
-	- Tekst- en spraakkanalen mogen enkel voor hun genoemde doel gebruikt worden.
-	- Nederlands is de enige taal die gesproken mag worden buiten de taal-specifieke tekstkanalen.
-	- Bot commands mogen enkel in het # :robot:│bot-commands kanaal gebruikt worden.
-	- Het spammen en 'overstromen' van een kanaal, evenals het zogenoemde 'kanaalhoppen' is niet toegestaan. Dit geldt ook voor het gebruik van bots. Als je het berichtenlimiet hebt bereikt, dan wordt dat beschouwd als spammen.
-	- Het herhalen van dezelfde bot command die iemand anders net heeft uitgevoerd.
-	- Het onnodig, overmatig en ghost taggen van gebruikers en staff, evenals het taggen zonder er een bericht bij te voegen.
-	- Discussies die leiden tot onrust, waaronder het voeren van discussies over politieke zaken.
-	- Het delen van persoonlijk identificeerbare informatie (bijvoorbeeld naam, adres, e-mail, telefoonnummer, etc.) van jezelf of andere gebruikers.
-3. Microfoon en geluid
-	- Muziek mag enkel in het muziek spraakkanaal afgespeeld worden.
-	- Het afspelen van muziek buiten het muziek spraakkanaal, het gebruik van stemvervormers en soundboards.
-	- Het afspelen of toevoegen van muziek dat vulgair taalgebruik bevat of abnormaal lang duurt (>10 minuten).
-4. Adverteren
-	- Adverteren is niet toegestaan, met uitzondering van:
-		- Streams in het #:clapper:│content kanaal (één keer per stream).
-		- Video’s in het # :clapper:│content kanaal.
-	- Reclame maken voor andere Discord guilds. Dit omvat het direct reclame maken in kanalen of via uitnodigingen, verkleinde URL's of het toevoegen van dergelijke zaken op media.
-	- Iedere vorm van dienstverlening (gratis of betaald), onder meer het adverteren via het gebruik van je gebruikers- of bijnaam of media in kanalen die daar niet voor bedoeld zijn.
-	- Ongevraagd uitnodigingen en/of advertenties naar anderen via directe berichten versturen.
-5. Gebruikersnamen en bijnamen
-	- Gebruikersnamen mogen enkel alfanumerieke karakters bevatten. Emojis mogen gebruikt worden in je naam, mits deze gecombineerd worden met enkele alfanumerieke karakers.
-	- Avatars moeten geschikt zijn voor alle leeftijden en voor op het werk. Ze mogen dus niet ongepast zijn of sexuele of bloederige inhoud bevatten. Hoewel we niet iedere uitzondering kunnen dekken in deze regel, zal het toegepast worden in de context van hoe de avatar gebruikt wordt.
-6. Ongepaste inhoud
-	- Het posten van ongepaste inhoud. Dit omvat (maar beperkt zich niet tot) het delen of posten van epilepsie uitlokkende, expliciete, ongepaste of pornografische inhoud en het distribueren van media van dit karakter.
-	- Het delen van links of bestanden die virussen, malware, illegale software, torrents, etc. bevatten die als illegaal beschouwd worden volgens internationale wetgeving is niet toegestaan.
-	- Het gebruik van IP trackers of andere kwaadaardige verzameltools is ten strengste verboden.
-	- Het bespreken of voorstellen van bovenstaande zaken is niet toegestaan.
-7. Sollicitatie's, bans en in-game gebeurtenissen
-	- Het bespreken van straffen, reports, tickets, appeals, sollicitaties en klachten over stafleden is niet toegestaan.
-	- Game Moderators verzoeken om bepaalde gebieden in het spel te modereren is niet toegestaan. Gebruik daarvoor het in-game of het web report systeem.
-8. Discord strafsysteem
-	- Straffen op Discord werken als volgt:
-		- mondelinge waarschuwing;
-		- 3 waarschuwingen die opgeslagen worden in de logs;
-		- 7 dagen geblokkeerd
-		- 7 dagen ban;
-		- permanente ban.
-	- Straffen, ook waarschuwingen, vervallen nooit en worden opgeslagen in de logs. Indien je van account wisselt, dan zijn de straffen die je op het vorige account hebt ontvangen nog steeds van toepassing.
-	- Indien het nodig is, dan kan er afgeweken worden van de standaardvolgorde van het strafsysteem in 9.01.
-	- Je kunt in beroep gaan tegen een straf via het feedback systeem. Contacteer daarvoor het "Management".
+
+
+
+
 
 
 [website]: https://zwanenburgroleplay.nl
