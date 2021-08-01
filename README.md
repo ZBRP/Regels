@@ -40,6 +40,8 @@ Gebruik hiervoor /register in de chatbalk
 Wanneer uw character wilt verwijderen doe dan het volgende:
 /delchar 
 
+U dient uw naam zo te schrijven voorbeeld -> "Zwanenburg Stad" 
+
 Bij het creëren van uw personage dient u rustig uw tijd te nemen. Zoek een leuke en passende outfit voor uzelf uit zodat u volwaardig de stad kunt betreden.
 
 Pas wel op bij het creëren van een outfit dat u geen overheidskleding aantrekt of attributen met betrekking tot politiekleding en dergelijke.
