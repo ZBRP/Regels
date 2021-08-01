@@ -14,7 +14,7 @@
 # ZwanenBurgRP-Regels
 
 - [🌍 Server Regels](https://github.com/ZBRP/Regels#server-regels)
-- [❌ Hacking / Bug Exploits / Abuse](https://github.com/ZBRP/Regels#hacking/bug/exploits/abuse)
+- [❌ Hacking / Bug Exploits / Abuse](https://github.com/ZBRP/Regels#hacking)
 - [🏃‍♂️Roleplay](https://github.com/ZBRP/Regels#roleplay)
 - [📱 Discord Regels](https://github.com/ZBRP/Regels#discord-regels)
 - [🎮 In-game Regels](https://github.com/ZBRP/Regels#in-game-regels)
