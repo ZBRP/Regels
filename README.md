@@ -77,9 +77,13 @@ Er zijn verschillende straffen die worden gehanteerd op verschillende overtredin
 
 
 [A] = 1 dag ban
+
 [B] = 3 dagen ban
+
 [C] = 1 week ban
+
 [D] = Permanente ban
+
 
 Nogmaals, de straffen kunnen per overtreding alsnog verschillen en ziet u bovenstaand een opzetvoorbeeld van hoe zwaar de straffen ongeveer gelden.
 
