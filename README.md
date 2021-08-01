@@ -16,7 +16,7 @@
 - [🌍 Server Regels](https://github.com/ZBRP/Regels#server-regels)
 - [❌ Hacking / Bug Exploits / Abuse](https://github.com/ZBRP/Regels#hacking-bug-exploit-abuse)
 - [🏃‍♂️Roleplay](https://github.com/ZBRP/Regels#roleplay)
-- [❓ Speler reports & staff](https://github.com/ZBRP/Regels#speler-reports-&-staff)
+- [❓ Speler reports en staff](https://github.com/ZBRP/Regels#speler-reports-en-staff)
 - [📱 Discord Regels](https://github.com/ZBRP/Regels#discord-regels)
 - [📚 Algemene strafopzet](https://github.com/ZBRP/Regels#algemene-strafopzet)
 - [🟩 Greenzone](https://github.com/ZBRP/Regels#greenzone)
@@ -67,7 +67,7 @@ Het stelen van andermans voertuig ZONDER RP is verboden.
 AFK geld farmen is verboden.
 Het verklappen van locaties buiten in-game activiteiten is verboden.
 
-### Speler reports & staff
+### Speler reports en staff
 
 Wanneer u een vraag of een probleem ervaart in-game dan kunt u het staffteam contacteren door middel van de chatbalk te openen en vervolgens /assist (plaats hierin uw vraag of probleem) of /report (plaats hierin uw vraag of probleem) te typen. Het is van belang om hier kort en krachtig uw probleem te beschrijven zodat de juiste persoon ter plaatse kan komen om u te helpen.
 Een scenario MOET worden afgemaakt voordat het wordt beoordeeld door een stafflid. Echter wanneer een staff constateert dat het scenario uit de hand loopt dan mag deze nietig worden verklaard.
