@@ -368,7 +368,7 @@ New life rule in de gangwar betekent dat nadat u bent gestorven tijdens het scen
 
 Het is verplicht de gangkleding te dragen tijdens een gangwar.
 
-Een gangwar MOET worden aangegeven bij hoofdstaff of management en moet in twitter of nieuws worden vermeld zodat de tegenpartij op de hoogte wordt gesteld. 
+Een gangwar moet in twitter of nieuws worden vermeld zodat de tegenpartij op de hoogte wordt gesteld. 
 
 De personen die zijn vermoord tijdens de gangwar moeten worden bijgehouden door de gangbaas of onderbaas.
 
