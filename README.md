@@ -29,7 +29,7 @@
 - [🔫📰 Wapenwet](https://github.com/ZBRP/Regels#wapenwet)
 - [🚗 Voertuigen](https://github.com/ZBRP/Regels#voertuigen)
 - [📻 Communicatiemiddelen](https://github.com/ZBRP/Regels#communicatiemiddelen)
-- [�💥💢Regels omtrent gang War](https://github.com/ZBRP/Regels#regels-omtrent-gang-war)
+- [💥💢Regels omtrent gang War](https://github.com/ZBRP/Regels#regels-omtrent-gang-war)
 
 
 ### Server regels
