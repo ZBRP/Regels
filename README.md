@@ -256,12 +256,6 @@ De volgende locaties vallen onder de greenzone:
 
 <img src="https://i.imgur.com/mmF8Ehz.png?width=403&height=230" />
 
-
-* Blokkenpark
-
-<img src="https://i.imgur.com/1HYJxq2.png" />
-
-
 * Politiebureau
 
 <img src="https://i.imgur.com/lcaWIgI.pngwidth=403&height=230" />
@@ -456,7 +450,7 @@ New life rule in de gangwar betekent dat nadat u bent gestorven tijdens het scen
 
 Het is verplicht de gangkleding te dragen tijdens een gangwar. Als u dood bent moet u andere kledij aantrekken zodat u niet herkenbaar bent als ganglid dat nog mee doet aan de gangwar.
 
-Een gangwar moet in twitter of nieuws worden vermeld zodat de tegenpartij op de hoogte wordt gesteld. 
+Een gangwar moet in onderwereld discord worden vermeld zodat de tegenpartij op de hoogte wordt gesteld. (Taggen is verplicht!) 
 
 De personen die zijn vermoord tijdens de gangwar moeten worden bijgehouden door de gangbaas of onderbaas.
 
